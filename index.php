@@ -3,7 +3,8 @@
     <head>
         <meta charset="utf-8"/>
         <title> UAB/Enginyeria </title>
-	<link rel="stylesheet" type="text/css" href="css/uab.css">
+	    <link rel="stylesheet" type="text/css" href="css/uab.css">
+        <script> src="js/jquery-3.3.1.min.js" </script>
 	<!-- completa -->
     </head>
     <body>
